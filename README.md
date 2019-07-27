@@ -1,0 +1,2 @@
+# haconfig
+Home Assistant config
